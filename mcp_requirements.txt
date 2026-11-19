@@ -1,0 +1,5 @@
+mcp==1.26.0
+# Tested together on Python 3.14, including the subprocess stdio handshake.
+anyio==4.12.1
+pydantic==2.12.5
+pydantic-settings==2.12.0
